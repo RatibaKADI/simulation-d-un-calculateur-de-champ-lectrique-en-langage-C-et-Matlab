@@ -1,1 +1,1 @@
-# simulation d'un calculateur de champ électrique en langage C et Matlab
+# simulation d'un calculateur de champ électrostatique en langage C et Matlab
